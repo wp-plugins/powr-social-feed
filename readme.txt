@@ -2,25 +2,26 @@
 ===POWr Social Feed===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline, instagram feed, instagram gallery, instagram share, social media feed, Facebook share, Facebook gallery, Facebook feed, Tumblr share, Tumblr gallery, Tumblr feed, Tumblr embed, instagram api, Facebook api, Tumblr api, facebook, instagram, tumblr
+Tags: free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline, instagram feed, instagram gallery, instagram share, social media feed, Facebook share, Facebook gallery, Facebook feed, Tumblr share, Tumblr gallery, Tumblr feed, Tumblr embed, instagram api, Facebook api, Tumblr api, facebook, instagram, tumblr, powr social feed, powr social
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create and customize a live social media feed with Instagram, Twitter, Facebook, and Tumblr!
+Combine content from Instagram, Twitter, Facebook, Tumblr and RSS!
 
 == Description ==
-POWr Social Feed is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+Combine content from Instagram, Twitter, Facebook, Tumblr and RSS!
 <br>
 <br>
-To use Social Feed, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-
-<blockquote>
-= <a href='https://www.powr.io/plugins/social-feed'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-social-feed-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+POWr Social Feed is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
 <br>
-</blockquote>
+<br>
+First, download, install, and activate POWr Social Feed. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-social-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+<br>
 
 = Free Features =
 * Display images, videos, and text from any Twitter, Facebook, Instagram, or Tumblr account.
@@ -31,26 +32,27 @@ To use Social Feed, download and install the plugin, then add to your site as a 
 * Built-in support displays text in any language.
 * Mobile responsive design looks great on any device.
 <br>
-= Upgrade to POWr Premium ($4.99)/month and: =
+= Upgrade ($4.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Up to 5 Accounts - add and display up to 5 different social accounts.
 * Faster Updates - faster update times keep your content fresh.
-* Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
 
 == Installation ==
-To install POWr Social Feed
-<br><br>
-1. Upload 'powr-social-feed.php' to the '/wp-content/plugins/' directory
+Download, install, and activate POWr Social Feed.
 <br>
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-To add POWr Social Feed as a widget, go to **Appearance->Widgets**, and drag POWr Social Feed to where you'd like it to appear.
-<br><br>
-To add Social Feed within a post or a page, simply write the shortcode **[powr-social-feed label='MY LABEL']** (including the brackets) where you'd like your Social Feed to appear. Then visit your page!
-<br><br>
-Want a more detailed tutorial? Visit [How to add Social Feed to your Wordpress site](http://www.powr.io/tutorials/how-to-add-social-feed-plugin-to-your-wordpress-site)
+<br>
+Then drop the widget anywhere in your theme.
+<br>
+<br>
+Or add to a page/post with the POWr Icon in the WP text editor.
+<br>
+<br>
+Then visit your site to and click the settings icon to edit right in the page.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-social-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+
 
 
 == Frequently Asked Questions ==
@@ -88,6 +90,9 @@ Improved SSL Support
 = 1.2 =
 Improved loading speed
 
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
 
 
 == Changelog ==
@@ -99,5 +104,8 @@ Improved loading speed
 
 = 1.2 =
 * Improved loading speed
+
+= 1.3 =
+Easily add POWr plugins right from the text editor.
 
 
