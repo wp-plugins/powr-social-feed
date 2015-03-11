@@ -22,7 +22,6 @@ First, download, install, and activate POWr Social Feed. Then drop the widget an
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-social-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Display images, videos, and text from any Twitter, Facebook, Instagram, or Tumblr account.
 * Adjust the priority for different feeds to display your favorite content.
@@ -36,8 +35,10 @@ First, download, install, and activate POWr Social Feed. Then drop the widget an
 * Eliminate all POWr logos and watermarks
 * Up to 5 Accounts - add and display up to 5 different social accounts.
 * Faster Updates - faster update times keep your content fresh.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Social Feed.
