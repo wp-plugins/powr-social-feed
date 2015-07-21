@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Social Feed
     Plugin URI: http://www.powr.io
-    Description: Combine content from Instagram, Twitter, Facebook, Tumblr and RSS!  Drop the widget anywhere in your theme. Or use the POWr icon in your WP text editor to add to a page or post. Edit on your live page by clicking the settings icon. More plugins and tutorials at POWr.io.
+    Description: Display posts from any social media network!  Drop the widget anywhere in your theme. Or use the POWr icon in your WP text editor to add to a page or post. Edit on your live page by clicking the settings icon. More plugins and tutorials at POWr.io.
     Author: POWr.io
     Version: 1.4.007
     Author URI: http://www.powr.io
